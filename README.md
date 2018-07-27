@@ -1,7 +1,7 @@
 function_types
 =====
 
-Declares the function types with different arity via `typedefs`.
+Defines the function types with different arities via `typedefs`.
 
 Version: 0.0.1
 
