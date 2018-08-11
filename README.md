@@ -3,7 +3,7 @@ function_types
 
 Defines the function types with different arities via `typedefs`.
 
-Version: 0.0.1
+Version: 0.0.2
 
 ```dart
 import 'package:function_types/function_types.dart';
