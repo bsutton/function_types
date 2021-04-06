@@ -16,16 +16,12 @@ void main() {
   print(toString(123));
 }
 
-Func1<Object, String> toString;
+late Func1<Object, String> toString;
 
 class Add<T> {
-  Func2<T, T, T> _add;
+  final Func2<T, T, T> add;
 
-  Add(T add(T a, T b)) {
-    _add = add;
-  }
-
-  Func2<T, T, T> get add => _add;
+  Add(this.add);
 }
 
 class Sub<T> {
