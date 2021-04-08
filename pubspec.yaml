@@ -1,5 +1,5 @@
 name: function_types
-version: 0.0.2
+version: 0.1.0
 author: Andrew Mezoni <andrew.mezoni@gmail.com>
 description: Defines the function types with different arities via `typedefs`.
 homepage: https://github.com/mezoni/function_types
